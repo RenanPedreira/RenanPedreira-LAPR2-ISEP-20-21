@@ -1,0 +1,13 @@
+diff a/.idea/workspace.xml b/.idea/workspace.xml	(rejected hunks)
+@@ -5,11 +5,7 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="b10939c8-29e1-4ee4-a38f-b13b611f9d4e" name="Default Changelist" comment="Updated unitary tests for TestParameterTest class">
+-      <change afterPath="$PROJECT_DIR$/src/test/java/app/domain/model/SortingAlTest.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/emailAndSMSMessages.txt" beforeDir="false" afterPath="$PROJECT_DIR$/emailAndSMSMessages.txt" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/app/controller/CheckResultController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/controller/CheckResultController.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/app/ui/console/CheckResultUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/ui/console/CheckResultUI.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />

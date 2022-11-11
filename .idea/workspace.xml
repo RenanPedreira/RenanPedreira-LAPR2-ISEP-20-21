@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b10939c8-29e1-4ee4-a38f-b13b611f9d4e" name="Default Changelist" comment="Updated unitary tests for TestParameterTest class">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_mac_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_mac_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_mac_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_mac_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/app/domain/model/AutoReportNHSTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/SprintC/US12/US12.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/SprintC/US12/US12.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/SprintD/US2/US2-SD.svg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/SprintD/US2/US2-SD.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/SprintD/US2/US2-SD.vpp" beforeDir="false" afterPath="$PROJECT_DIR$/docs/SprintD/US2/US2-SD.vpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1rTJhi3o6mP93Q346oVKV8T2Fsu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\biach\OneDrive\Documents\lei-21-s2-1dn-g61\src\main\java\app\domain\model" />
+      <recent name="C:\Users\biach\OneDrive\Documents\lei-21-s2-1dn-g61\src\main\java\app\mappers" />
+      <recent name="C:\Users\biach\OneDrive\Documents\lei-21-s2-1dn-g61\src\main\java\app\mappers\dto" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\biach\OneDrive\Documents\lei-21-s2-1dn-g61\src\main\java\app\controller" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="app.domain.model" />
+      <recent name="app.mappers" />
+      <recent name="app.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AutoReportNHSTest.testSendReport">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.ui.Main" />
+      <module name="Sem2App" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainJAVAFX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.ui.MainJAVAFX" />
+      <module name="Sem2App" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoReportNHSTest.testSendReport" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sem2App" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.domain.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="app.domain.model" />
+      <option name="MAIN_CLASS_NAME" value="app.domain.model.AutoReportNHSTest" />
+      <option name="METHOD_NAME" value="testSendReport" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sem2App" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.domain.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="app.domain.model" />
+      <option name="MAIN_CLASS_NAME" value="app.domain.model.ClientTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientTest.testClientData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sem2App" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.domain.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="app.domain.model" />
+      <option name="MAIN_CLASS_NAME" value="app.domain.model.ClientTest" />
+      <option name="METHOD_NAME" value="testClientData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AutoReportNHSTest.testSendReport" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainJAVAFX" />
+        <item itemvalue="JUnit.ClientTest.testClientData" />
+        <item itemvalue="JUnit.ClientTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b10939c8-29e1-4ee4-a38f-b13b611f9d4e" name="Default Changelist" comment="" />
+      <created>1618994267751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618994267751</updated>
+      <workItem from="1618994270138" duration="1857000" />
+      <workItem from="1619089775390" duration="1147000" />
+      <workItem from="1619518525301" duration="2612000" />
+      <workItem from="1619604178384" duration="748000" />
+      <workItem from="1619608446020" duration="7139000" />
+      <workItem from="1619626359205" duration="3687000" />
+      <workItem from="1619701542835" duration="4000" />
+      <workItem from="1619780759508" duration="15463000" />
+      <workItem from="1619799378059" duration="4037000" />
+      <workItem from="1619859259352" duration="14758000" />
+      <workItem from="1619899348668" duration="601000" />
+      <workItem from="1619947580222" duration="16969000" />
+      <workItem from="1620037597057" duration="26786000" />
+      <workItem from="1620118761836" duration="18667000" />
+      <workItem from="1620206675860" duration="5273000" />
+      <workItem from="1620224184366" duration="15621000" />
+      <workItem from="1620257021826" duration="14000" />
+      <workItem from="1620295480511" duration="22538000" />
+      <workItem from="1620334855880" duration="22980000" />
+      <workItem from="1620419037596" duration="5000" />
+      <workItem from="1620468371773" duration="9160000" />
+      <workItem from="1620491573515" duration="5000" />
+      <workItem from="1620494567622" duration="23000" />
+      <workItem from="1620494618554" duration="292000" />
+      <workItem from="1620499441319" duration="9357000" />
+      <workItem from="1620552987447" duration="16844000" />
+      <workItem from="1620729459432" duration="2888000" />
+      <workItem from="1620733179102" duration="3000" />
+      <workItem from="1620825405579" duration="641000" />
+      <workItem from="1620839834202" duration="13000" />
+      <workItem from="1620904421866" duration="2853000" />
+      <workItem from="1620989154136" duration="1365000" />
+      <workItem from="1621010834767" duration="2235000" />
+      <workItem from="1621172267820" duration="595000" />
+      <workItem from="1621181505874" duration="106000" />
+      <workItem from="1621326336962" duration="2038000" />
+      <workItem from="1621352173801" duration="823000" />
+      <workItem from="1621438902520" duration="1989000" />
+      <workItem from="1621541503573" duration="43000" />
+      <workItem from="1621595565008" duration="12018000" />
+      <workItem from="1621616191359" duration="7548000" />
+      <workItem from="1621632531568" duration="1643000" />
+      <workItem from="1621677176952" duration="7895000" />
+      <workItem from="1621694474397" duration="11781000" />
+      <workItem from="1621763195943" duration="17402000" />
+      <workItem from="1621789517743" duration="3956000" />
+      <workItem from="1621850279450" duration="5062000" />
+      <workItem from="1621870398698" duration="57000" />
+      <workItem from="1621872788121" duration="4184000" />
+      <workItem from="1621935252930" duration="6252000" />
+      <workItem from="1621954148319" duration="2844000" />
+      <workItem from="1621959411750" duration="58000" />
+      <workItem from="1622215974938" duration="5782000" />
+      <workItem from="1622224749710" duration="4591000" />
+      <workItem from="1622307538573" duration="1690000" />
+      <workItem from="1622323458090" duration="4966000" />
+      <workItem from="1622368994259" duration="301000" />
+      <workItem from="1622384754171" duration="2023000" />
+      <workItem from="1622396301001" duration="2475000" />
+      <workItem from="1622398815258" duration="1638000" />
+      <workItem from="1622409364103" duration="9000" />
+      <workItem from="1622476508658" duration="3348000" />
+      <workItem from="1622481466419" duration="1151000" />
+      <workItem from="1622535782507" duration="730000" />
+      <workItem from="1622536562321" duration="3561000" />
+      <workItem from="1622576448432" duration="626000" />
+      <workItem from="1622625566161" duration="14248000" />
+      <workItem from="1622656978407" duration="739000" />
+      <workItem from="1622669081325" duration="357000" />
+      <workItem from="1622669488222" duration="1743000" />
+      <workItem from="1622806167860" duration="6940000" />
+      <workItem from="1622818812963" duration="2547000" />
+      <workItem from="1623075370822" duration="1021000" />
+      <workItem from="1623101026609" duration="1108000" />
+      <workItem from="1623148089299" duration="654000" />
+      <workItem from="1623228168383" duration="17097000" />
+      <workItem from="1623319656368" duration="8881000" />
+      <workItem from="1623755013902" duration="83000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added unitary tests for ReferenceValueTest class">
+      <created>1622218914765</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622218914765</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added unitary tests for TestParameterTest class">
+      <created>1622219956035</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622219956035</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated unitary test for TestParameterTest class">
+      <created>1622220523039</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622220523039</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added unitary tests for TestParameterResultTest class">
+      <created>1622221871962</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622221871962</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated unitary tests for ReferenceValueTest class">
+      <created>1622227698245</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622227698245</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Updated unitary tests for TestParameterTest class">
+      <created>1622229298696</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622229298696</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updated unitary tests for TestParameterTest class">
+      <created>1622231920566</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622231920566</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added unitary tests for ReferenceValueTest class" />
+    <MESSAGE value="Added unitary tests for TestParameterTest class" />
+    <MESSAGE value="Updated unitary test for TestParameterTest class" />
+    <MESSAGE value="Added unitary tests for TestParameterResultTest class" />
+    <MESSAGE value="Updated unitary tests for ReferenceValueTest class" />
+    <MESSAGE value="Updated unitary tests for TestParameterTest class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated unitary tests for TestParameterTest class" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../CovidReferenceValues1API-1.0.0.jar!/com/example3/CovidReferenceValues1API.class</url>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/app/controller/ValidatingWorkController.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/app/controller/RegisterClientControllerTest.java</url>
+          <line>34</line>
+          <properties class="app.controller.RegisterClientControllerTest" method="testUser">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/app/mappers/TestReportMapperTest.java</url>
+          <line>30</line>
+          <properties class="app.mappers.TestReportMapperTest" method="testToDTO">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/app/controller/RegisterClientControllerTest.java</url>
+          <line>23</line>
+          <properties class="app.controller.RegisterClientControllerTest" method="testUser">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="app.ui.console.CheckResultUI" memberName="crc" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Email_java$Main.ic" NAME="Main Coverage Results" MODIFIED="1620731176276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>app.ui.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Email_java$All_in_Sem2App.ic" NAME="All in Sem2App Coverage Results" MODIFIED="1622055337243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Sem2App$app_domain_model_in_Sem2App.ic" NAME="app.domain.model in Sem2App Coverage Results" MODIFIED="1620149873592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>app.domain.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Sem2App$ClinicalAnalysisLaboratoryTest_testSetLabID.ic" NAME="ClinicalAnalysisLaboratoryTest.testSetLabID Coverage Results" MODIFIED="1619784615156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>app.domain.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Email_java$app_domain_model_in_Sem2App.ic" NAME="app.domain.model in Sem2App Coverage Results" MODIFIED="1620732290025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>app.domain.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Sem2App$RegisterClinicalStoreTest.ic" NAME="RegisterClinicalStoreTest Coverage Results" MODIFIED="1619886240695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>app.domain.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Email_java$All_in_Sem2App__2_.ic" NAME="All in Sem2App (2) Coverage Results" MODIFIED="1622023189742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Sem2App$ClinicalAnalysisLaboratoryTest.ic" NAME="ClinicalAnalysisLaboratoryTest Coverage Results" MODIFIED="1619887316965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>app.domain.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Sem2App$ClientTest.ic" NAME="ClientTest Coverage Results" MODIFIED="1620148904750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>app.domain.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Sem2App$TestTypeTest.ic" NAME="TestTypeTest Coverage Results" MODIFIED="1619785078301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>app.domain.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Email_java$app_in_Sem2App.ic" NAME="app in Sem2App Coverage Results" MODIFIED="1622023245986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>app.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Email_java$ClientTest.ic" NAME="ClientTest Coverage Results" MODIFIED="1620388366071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>app.domain.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Email_java$All_in_Sem2App__1_.ic" NAME="All in Sem2App (1) Coverage Results" MODIFIED="1622023125580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Email_java$ClinicalAnalysisLaboratoryTest.ic" NAME="ClinicalAnalysisLaboratoryTest Coverage Results" MODIFIED="1620400058856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>app.domain.model.*</FILTER>
+    </SUITE>
+  </component>
+</project>
